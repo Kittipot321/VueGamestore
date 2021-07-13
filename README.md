@@ -1,4 +1,4 @@
-# topeeshop
+# topeeshop(VueGameStore)
 ## Overview
 Topee is Free game store.(It's Free.)
 This website was created in my hobbies for practice web programming skills.
