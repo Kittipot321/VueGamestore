@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(s,e,i){"use strict";i.r(e);var t=i("7a23"),a={class:"about"},c=Object(t["g"])("h1",{class:"is-size-3"},"This is project made for my programming skill in hobbies",-1),o=Object(t["g"])("p",{class:"is-size-5"},"Data by freetogame API",-1);function n(s,e){return Object(t["p"])(),Object(t["d"])("div",a,[c,o])}const r={};r.render=n;e["default"]=r}}]);
+//# sourceMappingURL=about.764ed3c2.js.map
